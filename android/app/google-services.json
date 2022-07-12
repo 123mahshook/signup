@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388767906835",
+    "project_id": "signup-2d612",
+    "storage_bucket": "signup-2d612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388767906835:android:27573c25167220ec79d3e6",
+        "android_client_info": {
+          "package_name": "com.sowedane.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388767906835-clc6o8jsga2l5857jdt903kg9fab18a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlKyQ7am6ztvX4w2Ue8w-xA9lvv1-034"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388767906835-clc6o8jsga2l5857jdt903kg9fab18a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
